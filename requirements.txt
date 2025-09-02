@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+huggingface_hub
+pymupdf
+pdfplumber
+pytesseract
+Pillow
